@@ -12,3 +12,5 @@ Commit melman artem
 Commit artem melman
 
 новая строка в файле|обновления для сравнения с conflict_branch
+
+изменения для проверки GUI
