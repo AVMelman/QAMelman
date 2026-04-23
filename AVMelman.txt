@@ -11,4 +11,4 @@
 Commit melman artem
 Commit artem melman
 
-новая строка в файле
+новая строка в файле|обновления для сравнения с conflict_branch
